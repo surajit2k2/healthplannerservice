@@ -1,0 +1,16 @@
+com\ibm\healthplanner\model\BaseEntity.class
+com\ibm\healthplanner\controller\HealthPlannerController.class
+com\ibm\healthplanner\exception\ExceptionResponse.class
+com\ibm\healthplanner\exception\CustomEntityResponseExceptionHandler.class
+com\ibm\healthplanner\exception\BadRequestException.class
+com\ibm\healthplanner\model\PostalAddress.class
+com\ibm\healthplanner\repository\HealthPlannerRepository.class
+com\ibm\healthplanner\exception\ResourceExistsException.class
+com\ibm\healthplanner\model\Patient.class
+com\ibm\healthplanner\service\HealthPlannerServiceImpl.class
+com\ibm\healthplanner\HealthplannerApplication.class
+com\ibm\healthplanner\model\PatientName.class
+com\ibm\healthplanner\model\GetPatientResponse.class
+com\ibm\healthplanner\service\HealthPlannerService.class
+com\ibm\healthplanner\exception\ResourceNotFoundException.class
+com\ibm\healthplanner\config\SwaggerConfig.class
